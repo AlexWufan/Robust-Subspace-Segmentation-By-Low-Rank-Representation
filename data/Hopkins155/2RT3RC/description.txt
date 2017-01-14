@@ -1,0 +1,1 @@
+Object 2 translates and rotates on the same axis, Object 3 rotates on an axis orthogonal to the first, the camera is fixed.

@@ -1,0 +1,1 @@
+Object 1 rotate on one axis and translate on the plane orthogonal (fast); Object 2 translates on an axis perpendicular to the first rotation; the camera rotates around his z axis and then translates.

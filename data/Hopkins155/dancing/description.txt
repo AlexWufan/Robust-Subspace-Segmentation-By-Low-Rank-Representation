@@ -1,0 +1,3 @@
+A sequence of a person dancing with his upper body, his head and both of
+his upper arms and forearms moving. His mouth motion is non-rigid.
+Sequence from Yan, Pollefeys - ECCV06 - A General Framework for Motion Segmentation - Independent, Articulated, Rigid, Non-rigid, Degenerate and Non Degenerate.

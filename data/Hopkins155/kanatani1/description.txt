@@ -1,0 +1,1 @@
+A car moving in a parking lot. Affine motions of both car and camera.

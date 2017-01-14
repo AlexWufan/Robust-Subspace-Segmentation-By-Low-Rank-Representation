@@ -1,0 +1,1 @@
+Object 1 rotate on one axis, Object 2 translate on a perpendicular axis, the camera rotates around his z axis and translates diagonally.

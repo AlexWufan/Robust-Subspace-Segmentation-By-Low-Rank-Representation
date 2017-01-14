@@ -1,0 +1,1 @@
+General, indipendent motions. Each object and the camera have translate and rotate on different axis.

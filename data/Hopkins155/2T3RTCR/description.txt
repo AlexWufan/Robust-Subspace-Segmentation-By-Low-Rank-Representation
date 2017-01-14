@@ -1,0 +1,1 @@
+Object 2 translates diagonally, Object 3 rotates and translates, the camera rotates around his z axis.

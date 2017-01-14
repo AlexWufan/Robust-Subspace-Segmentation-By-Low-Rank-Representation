@@ -1,0 +1,1 @@
+Two toy-cars and a box moving. The camera is fixed.

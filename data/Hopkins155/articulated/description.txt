@@ -1,0 +1,1 @@
+Three objects connected in an articulated object. The first object rotates while the second goes up and the third goes down accordingly.

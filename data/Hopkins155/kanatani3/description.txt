@@ -1,0 +1,1 @@
+A person rotating his head. The camera translate and the head rotates.

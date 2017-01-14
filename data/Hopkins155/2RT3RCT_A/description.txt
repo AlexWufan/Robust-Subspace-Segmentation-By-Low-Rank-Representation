@@ -1,0 +1,1 @@
+Object 2 translates and rotates on ortogonal axes, Object 3 rotates on the remaining axis, the camera translates parallely but in the opposite direction of Object 2. Due to the combination of slow rotation and camera motion, Object 3 is hard to segment.

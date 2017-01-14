@@ -1,0 +1,1 @@
+Object 2 translates and rotates on the same axis, Object 3 rotates on an axis orthogonal to the first, the camera rotates around is z axis, approximatively parallel to the axis of Object 2.

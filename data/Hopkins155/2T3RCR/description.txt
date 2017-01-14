@@ -1,0 +1,1 @@
+Object 2 translates, Object 3 rotates on an axis othogonal to the first, the camera rotates approximatively around the axis of Object 2.

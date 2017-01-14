@@ -1,0 +1,1 @@
+Object 1 rotate on one axis, Object 2 rotate on a perpendicular axis, the camera translates approximatively along the rotation axis of the first object.

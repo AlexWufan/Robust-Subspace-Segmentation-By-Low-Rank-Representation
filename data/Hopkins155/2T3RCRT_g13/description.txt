@@ -1,0 +1,1 @@
+Sequence derived from <a href="../2T3RCRT/summary.html">2T3RCRT</a> but with groups 1,3 only.

@@ -1,0 +1,1 @@
+A car making a turn. Affine motions of both car and camera.

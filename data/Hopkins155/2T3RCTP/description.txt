@@ -1,0 +1,1 @@
+Object 2 translates, Object 3 rotates translates on an orthogonal axis, the camera translates approximatively parallely to Object 2 but in the opposite direction. Quite strong perspective effect of the background.

@@ -1,0 +1,1 @@
+Object 2 translates and rotates on the same axis, Object 3 rotates on an othogonal axis, the camera translates parallely to the axis of Object 3.

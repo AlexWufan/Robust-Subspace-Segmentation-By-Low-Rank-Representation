@@ -1,0 +1,1 @@
+Object 2 rotates, Object 3 rotates and translates, the camera is fixed.

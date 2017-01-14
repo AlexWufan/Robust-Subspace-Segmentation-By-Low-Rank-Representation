@@ -1,0 +1,2 @@
+A sequence of two bulldozers moving independently, one of which moves
+articulately with its arm rotating around an axis. Sequence from Yan, Pollefeys - ECCV06 - A General Framework for Motion Segmentation - Independent, Articulated, Rigid, Non-rigid, Degenerate and Non Degenerate.

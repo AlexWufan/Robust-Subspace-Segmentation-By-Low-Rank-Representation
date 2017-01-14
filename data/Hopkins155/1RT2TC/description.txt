@@ -1,0 +1,1 @@
+Object 1 rotate on one axis and moves on the orthogonal direction (fast), Object 2 translate on the axis perpendicular to the previous two directions, the camera is fixed.

@@ -1,0 +1,3 @@
+A sequence of a person moving with his head rotating around
+the neck. The color of a dot, red or green, shows the segmentation result.
+Sequence from Yan, Pollefeys - ECCV06 - A General Framework for Motion Segmentation - Independent, Articulated, Rigid, Non-rigid, Degenerate and Non Degenerate.

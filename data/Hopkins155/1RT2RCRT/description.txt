@@ -1,0 +1,1 @@
+Object 1 rotate on one axis and translate on the plane orthogonal, very near to the camera; Object 2 rotates on an axis perpendicular to the first rotation; the camera rotates around his z axis.
